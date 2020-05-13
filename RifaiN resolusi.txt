@@ -1,0 +1,4 @@
+RifaiN resolusi
+- konsisten belajar CI dulu,
+- Setelah itu baru Git GitHub
+- Baru lanjut Laravel
